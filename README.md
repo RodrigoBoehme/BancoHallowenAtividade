@@ -15,7 +15,7 @@ Esta tabela apresenta um banco de dados referente as familias, um descrição so
 
 ## ContextoSocioCultural
 Esta tabela é destinada a apresentar diferentes contextos sociais, com diferentes culturas, localizações, linguas, religião e classe social, e tambem uma id para representar cada instancia.
-# Diagrama ER
+# Diagrama ER  ![ModeloLogico](https://github.com/RodrigoBoehme/BancoHallowenAtividade/blob/main/Modelo_Conceitual_FIlme_Corra.png?raw=true)
 # Instruções
 ## Instalação
 ##Crie o banco de dados 
