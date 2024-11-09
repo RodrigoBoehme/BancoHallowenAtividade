@@ -1,7 +1,6 @@
-# BancoHallowenAtividade
-# Descrição
- Banco de dados referente ao filme "Corra"
-# Banco desestruturado
+# Banco de Dados do Filme Corra (2017) - Trabalho
+Trabalho de Criação de um banco de dados do Filme Corra# Banco desestruturado
+# Contem as seguintes tabelas
 ## Familia
 Esta tabela apresenta um banco de dados referente as familias, um descrição sobre as familias, uma ID refere a cada uma 
 ## MembroFamilia
