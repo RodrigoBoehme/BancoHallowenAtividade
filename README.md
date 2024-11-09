@@ -7,8 +7,9 @@ Esta tabela apresenta um banco de dados referente as familias, um descrição so
 ## MembroFamilia
 ## Personagem
 ## Tratamento
+
 ## ContextoSocioCultural
-Esta tabela apre
+Esta tabela é destinada a apresentar diferentes contextos sociais, com diferentes culturas, localizações, linguas, religião e classe social, e tambem uma id para representar cada instancia.
 # Diagrama ER
 # Instruções
 ## Instalação
